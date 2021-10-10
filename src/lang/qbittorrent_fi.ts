@@ -1163,7 +1163,7 @@ Virhe: %2</translation>
         <location filename="../gui/rss/automatedrssdownloader.ui" line="186"/>
         <source>Smart Episode Filter will check the episode number to prevent downloading of duplicates.
 Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also support - as a separator)</source>
-        <translation>Älykäs jaksosuodin tarkistaa jaksonumeron estääkseen kaksoiskappaleiden latauksen.
+        <translation>Älykäs jaksosuodatin tarkistaa jaksonumeron estääkseen kaksoiskappaleiden latauksen.
 Nämä muodot ovat tuetut: S01E01, 1x1, 2017.12.31 ja 31.12.2017 (päiväysmuodot tukevat myös - (viivaa) erottajana)</translation>
     </message>
     <message>
@@ -1256,7 +1256,7 @@ Nämä muodot ovat tuetut: S01E01, 1x1, 2017.12.31 ja 31.12.2017 (päiväysmuodo
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="91"/>
         <source>Matches articles based on episode filter.</source>
-        <translation>Täsmää nimikkeisiin jotka perustuvat jaksosuotimeen.</translation>
+        <translation>Täsmää nimikkeisiin jotka perustuvat jaksosuodattimeen.</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="91"/>
